@@ -18,3 +18,9 @@
 
 
 ### 👨‍💻 About Me :
+
+I am a Full Stack Software Engineer from Boston, MA.
+
+- I love to code and my passion lies in finding new ways to build and learning from it!
+
+- My hobbies include 🎮 Gaming, 🧑‍🤝‍🧑 Socializing/Networking, and 📺 Watching Anime.
