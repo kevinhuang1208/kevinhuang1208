@@ -14,3 +14,7 @@
   <img src="https://cdn.discordapp.com/attachments/1117948168353628201/1123690752380244131/banner.png" alt="Banner">
 </div>
 
+---
+
+
+### 👨‍💻 About Me :
