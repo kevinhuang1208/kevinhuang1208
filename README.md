@@ -12,7 +12,7 @@
 ### Hi there 👋
 
 <div id="middle" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1117948168353628201/1123690752380244131/banner.png" width="1200" height="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1117948168353628201/1123694457875857470/boston1.jpg" width="600" height="300"/>
 </div>
 ---
 
