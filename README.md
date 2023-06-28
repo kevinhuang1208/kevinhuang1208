@@ -5,15 +5,14 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
     </a>
   </div>
+<div align="center>
+  <img src="https://cdn.discordapp.com/attachments/1117948168353628201/1123690752380244131/banner.png" width="600" height="300">
+</div>
 </div>
 
 
 ### Hi there 👋
 
-<div align="center>
-  Is this going to display?
-  <img src="https://cdn.discordapp.com/attachments/1117948168353628201/1123690752380244131/banner.png" width="600" height="300">
-</div>
 
 ---
 
