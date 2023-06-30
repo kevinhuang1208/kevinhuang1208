@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/kevinhuang147/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
     </a>
+    <a href="https://kevinhuang1208.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-black?logoColor=white&style=for-the-badge" alt="Portfolio Badge">
+    </a>
   </div>
 
 </div>
